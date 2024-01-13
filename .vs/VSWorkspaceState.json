@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExpenseTracker",
+    "\\ExpenseTracker\\client",
+    "\\ExpenseTracker\\client\\public",
+    "\\ExpenseTracker\\client\\src",
+    "\\ExpenseTracker\\client\\src\\Hooks",
+    "\\ExpenseTracker\\server",
+    "\\ExpenseTracker\\server\\config"
+  ],
+  "SelectedNode": "\\ExpenseTracker\\client\\public\\index.html",
+  "PreviewInSolutionExplorer": false
+}
